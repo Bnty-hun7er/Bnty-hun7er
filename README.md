@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:mikeadhil2002@gmail.com">
+  <a href="https://mail.google.com/mail/u/?authuser=mikeadhil2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/adhil-cbr-hunter-93a673299/" target="_blank">
